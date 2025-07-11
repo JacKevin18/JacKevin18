@@ -2,7 +2,7 @@
 
 Soy Jack Kevin Yavi Almendras  
 Estudio Ingeniería de Sistemas  
-
+El software es el alma del hardware
 <!--
 **JacKevin18/JacKevin18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
